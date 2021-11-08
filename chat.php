@@ -71,7 +71,6 @@
                <button><i class="fab fa-telegram-plane"></i></button>
            </form>
        </section>
-
     </div>
 </body>
 </html>
