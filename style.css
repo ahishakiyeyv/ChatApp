@@ -80,7 +80,7 @@ form .name-details .field:last-child{
     border:none;
     font-size:17px;
     font-weight:400;
-    background:#333;
+    background:#333;   
     color:#fff;
     border-radius: 5px;
     cursor:pointer;
@@ -204,7 +204,7 @@ form .name-details .field:last-child{
 }
 .users-list a{
     margin-bottom:15px;
-    page-break-after: 10px;;
+    page-break-after: 10px; 
     padding-right:15px;
     border-bottom-color:#f1f1f1;
 }
