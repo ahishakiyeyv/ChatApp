@@ -38,7 +38,7 @@
                         <input type="file" name="image" required>
                    </div>
                    <div class="field button">
-                       <input type="submit" value="Continue to Chat">
+                       <input type="submit" name="Continue" value="Continue to Chat">
                    </div>
            </form>
            <div class="link">Already signed up? <a href="#">Login now</a></div>
