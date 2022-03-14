@@ -249,7 +249,7 @@ form .name-details .field:last-child{
 }
 
 .chat-box{
-    height:500px;
+    height:400px;
     overflow-y:auto;
     background:#f7f7f7;
     padding:10px 30px 20px 30px;
@@ -268,7 +268,7 @@ form .name-details .field:last-child{
 .chat-box .outgoing{
     display:flex;
 }
-.outgoing .details p{
+.outgoing .details{
     margin-left:auto;
     max-width:calc(100% -130px);
 }
