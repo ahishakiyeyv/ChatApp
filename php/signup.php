@@ -19,8 +19,7 @@
                 //let's check user upload file or not
                 if(isset($_FILES["image"])){//if file is upload
 
-                    $img_name = $_FILES["image"]["name"];//getting user upload img name
-                    
+                    $img_name = $_FILES["image"]["name"];//getting user upload img name  
                     $tmp_name = $FILES["image"]["tmp_name"];//this temporary name is used to save/move file in our folder
 
                   //let's explode image and get the last extension like jpg png
