@@ -79,7 +79,7 @@ form .name-details .field:last-child{
     height:45px;
     border:none;
     font-size:17px;
-    font-weight:400px;
+    font-weight:400;
     background:#333;
     color:#fff;
     border-radius: 5px;
